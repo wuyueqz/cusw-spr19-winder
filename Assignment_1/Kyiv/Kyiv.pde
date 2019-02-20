@@ -10,7 +10,7 @@ PShape bridge;
 
 void setup() {
   size(640, 360, P3D);
- 
+  frameRate(60);
   bridge = loadShape("Bridge.obj");
   bridge.setFill(0xffffffff);
   bridge.setSpecular(0xfffff7d5); // This is to import the Kyiv Pedestrain Bridge
