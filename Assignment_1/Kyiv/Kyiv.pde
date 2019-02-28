@@ -23,9 +23,9 @@ void setup() {
 
 void draw() {
   
-  background(0);  
-                  
-  String t = "Output Statistics" + "\nSpotlight X: " + mouseX + "\nSpotlight Y: " + mouseY + "\nRotation Speed: " + value;
+  background(0);
+  
+  String t = "Output Statistics" + "\nSpotlight X: " + mouseX + "\nSpotlight Y: " + mouseY + "\nRotation Speed: " + value;             
   fill(255);
   text(t, mouseX-320*.8, mouseY-180*.8, 200, 200); // This is to set the output stats;
   
