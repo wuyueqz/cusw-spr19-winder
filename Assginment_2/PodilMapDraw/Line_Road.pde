@@ -18,7 +18,7 @@ class Road{
         stroke(road_color);
         line(screenStart.x, screenStart.y, screenEnd.x, screenEnd.y);
         
-        float t1 = (frameCount/5.0)%1;
+        float t1 = (frameCount/10.0)%1;
 
         float x1 = screenStart.x + (screenEnd.x - screenStart.x)*t1;
         float y1 = screenStart.y + (screenEnd.y - screenStart.y)*t1;
