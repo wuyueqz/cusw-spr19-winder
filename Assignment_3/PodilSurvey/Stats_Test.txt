@@ -1,0 +1,19 @@
+，What case study area did you pick and why?
+
+- The area picked is Kyiv city, Ukraine. 
+In IAP my classmate has launched a survey for the residents in this area, in order to understand their daily social behavior. One of the questions of in the survey is to ask them to pick up the place that they spend most time on. The case study reflects their answer on this specific question.
+
+
+，What metrics did you pick and why?
+
+- I applied 5 metrics: 1) the duration that each person stays in this place; 2) the gender of the person; 3) the age of the person; 4) whether the person works in Kyiv or not? 5) whether the person lives in Kyiv or not.
+
+
+
+，What statistical test did you use and why?
+
+- I used Chi-squared test to test the null hypothesis: that each person's gender (taking NA into consideration) is independent of the place that each person spent the longest time, because the gender as well as the geolocation (different districts of Kyiv) are all categorized data.
+
+，What was its result (again not graded for accuracy)?
+
+- The freedom is 6. According to the Chi-squared test, the statistic is 4.1998. The p-value is .649655. The result is not significant at p < .05. So we accept the null hypothesis as the gender is an independent indicator as of the person's favorite place.
