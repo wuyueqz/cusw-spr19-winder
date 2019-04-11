@@ -26,11 +26,9 @@ class Road{
         float r = 10*random(150,250)/250;
  
         fill(250,214,random(0,250), 200);
-        noStroke();
-        if(mouseX - 100 < x1 && x1 < mouseX + 100 && mouseY - 100 < y1 && y1 < mouseY + 100)
-          {       
-          ellipse(x1, y1, 6, 6);
-          };
+        noStroke();    
+        ellipse(x1, y1, 6, 6);
+
         }
   }
 }

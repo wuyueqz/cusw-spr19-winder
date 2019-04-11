@@ -1,100 +1,100 @@
-,duration,most_time_x,most_time_y,second_time_x,second_time_y,live,work,first_name,last_name,age,gender,school,marital,children,workable,family
-1,7,472,372,416,329,No,No,Nata,Kievskaa,35-44,NA,High School Diploma,Divorced,Yes,Yes,2
-2,2,565,338,451,352,No,Yes,Mariia,Stepaniuk,18-24,Female,Bachelors degree,Single,No,Yes,1
-3,2,448,413,417,315,No,No,Dmytro,Romaniuk,18-24,Male,Associate Degree,Single,No,Yes,1
-4,2,536,370,422,323,No,Yes,Kateryna,Sergatskova,25-34,Female,Masters degree,Married,Yes,Yes,2
-5,2,536,354,422,398,No,No,Andy,NA,18-24,Male,Masters degree,Single,No,Yes,2
-6,7,303,357,402,370,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7,3,412,330,406,310,No,No,Denys,Davydov,25-34,Male,High School Diploma,Single,No,Yes,1
-8,9,209,317,391,368,No,No,Smolin,Yaroslav,25-34,Male,Masters degree,Single,No,Yes,3
-9,3,421,298,428,345,No,Yes,Oleksandr,Vynogradov,25-34,Male,"Advanced professional degree (example: law, PHD)",Single,No,Yes,1
-10,8,426,292,428,342,Yes,No,Aleksey,Y,25-34,Male,Masters degree,Married,Yes,Yes,3
-11,5,425,360,719,508,No,Yes,Ivan ,Protasov,25-34,Male,Masters degree,Single,No,Yes,0
-12,10,433,353,412,340,No,No,Nick,Vinogradov,55-64,Male,Masters degree,Married,Yes,Yes,3
-13,5,436,343,410,330,Yes,Yes,Hanna,Bondar,35-44,Female,Masters degree,Married,Yes,Yes,4
-14,7,416,298,413,335,Yes,Yes,Olga,Ferley,25-34,Female,Masters degree,Married,No,Yes,1
-16,5,410,309,435,366,Yes,No,Sergii,K,35-44,Male,Bachelors degree,Living with partner,No,Yes,1
-17,10,429,324,401,245,Yes,Yes,Natalia,Sklyarska,45-54,Female,High School Diploma,Married,Yes,Yes,3
-18,1,542,358,417,338,No,No,Olga,Ignatenko,35-44,Female,"Advanced professional degree (example: law, PHD)",Living with partner,No,Yes,1
-19,10,408,375,414,304,Yes,No,Gala,Butovych,25-34,Female,Masters degree,Single,No,Yes,3
-20,1,413,413,411,315,No,Yes,Anton,Dehtiarov,25-34,Male,Masters degree,Married,No,Yes,1
-21,7,427,377,471,485,No,Yes,Andrii,Kuzmenko,25-34,Male,Associate Degree,Married,Yes,Yes,4
-22,4,NA,NA,NA,NA,No,No,Bohdan,Anonymous,18-24,Male,Bachelors degree,Living with partner,No,Yes,NA
-23,5,419,343,427,387,Yes,Yes,Oleksandra,Kravchenko,35-44,Female,Masters degree,Single,No,Yes,0
-24,6,155,114,377,310,No,Yes,Oleksandra,Lavrenchuk,35-44,Female,Masters degree,Married,Yes,Yes,3
-25,7,423,308,555,461,No,Yes,Ruslan,Dobzhynsky,25-34,Male,Masters degree,Single,No,Yes,1
-26,1,436,336,401,229,Yes,Yes,Yuliia,Slusar,18-24,Female,Bachelor Degree,Living with partner,No,Yes,1
-27,3,413,299,408,372,Yes,Yes,Anna,Ivanenko,25-34,Female,Associate Degree,Living with partner,No,Yes,1
-28,7,424,359,441,357,No,,Bogdan,S,25-34,Male,Associate Degree,Single,No,Yes,NA
-29,3,403,283,412,252,No,Yes,Mykhailo,Glubokyi,25-34,Male,Associate Degree,Married,Yes,Yes,2
-30,1,333,362,478,372,No,No,NA,NA,18-24,Female,Bachelors degree,Married,No,Yes,3
-31,8,401,300,418,338,Yes,No,Eugene,Bespalov,25-34,Male,Masters degree,Living with partner,No,Yes,1
-32,4,422,313,369,507,Yes,Yes,Oleksandra,Khalepa,25-34,Female,"Advanced professional degree (example: law, PHD)",Single,No,Yes,7
-33,6,368,294,555,393,No,Yes,Anonymous,Anonymous,18-24,Female,Masters degree,Single,No,Yes,2
-34,10,377,334,465,417,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,1
-35,3,394,291,392,206,No,Yes,Anonymous,Anonymous,35-44,Male,Masters degree,Married,No,Yes,1
-36,5,410,215,435,347,No,No,Anonymous,Anonymous,18-24,Female,High School Diploma,Single,No,Yes,1
-37,1,384,332,670,732,No,No,Anonymous,Anonymous,25-34,Male,Masters degree,Single,No,Yes,2
-38,1,382,294,312,255,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Living with partner,No,Yes,1
-39,7,416,332,353,491,No,No,Anonymous,Anonymous,18-24,Male,High School Diploma,Single,No,Yes,4
-40,5,444,349,411,233,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,2
-41,8,299,71,292,68,Yes,Yes,Anonymous,Anonymous,25-34,Male,Masters degree,Married,Yes,Yes,2
-42,2,416,312,357,324,No,No,Anonymous,Anonymous,25-34,Female,Masters degree,Married,No,Yes,0
-43,5,444,353,706,435,No,Yes,Anonymous,Anonymous,18-24,Female,Bachelors degree,Single,No,Yes,1
-44,4,451,380,601,269,No,Yes,Anonymous,Anonymous,18-24,Female,Masters degree,Single,No,Yes,1
-45,3,374,511,NA,NA,No,No,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-46,3,158,440,413,305,No,Yes,Anonymous,Anonymous,18-24,Female,Bachelors degree,Living with partner,No,Yes,2
-47,3,290,432,403,306,No,No,Anonymous,Anonymous,18-24,Female,Masters degree,Living with partner,No,Yes,1
-48,9,407,301,329,404,Yes,No,Anonymous,Anonymous,18-24,Female,High School Diploma,Living with partner,No,Yes,1
-49,3,406,294,358,320,No,Yes,Anonymous,Anonymous,18-24,Female,Bachelors degree,Single,No,Yes,1
-50,10,395,205,350,325,No,No,Anonymous,Anonymous,25-34,Female,"Advanced professional degree (example: law, PHD)",Married,No,Yes,2
-51,3,374,321,307,310,Yes,Yes,Anonymous,Anonymous,18-24,Female,Masters degree,Single,No,Yes,2
-52,9,438,288,414,300,Yes,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,0
-53,4,418,237,377,456,No,No,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-54,1,379,330,422,304,No,No,Anonymous,Anonymous,18-24,Male,Secondary special,Single,No,Yes,2
-55,1,338,497,423,408,No,Yes,Anonymous,Anonymous,25-34,Male,"Advanced professional degree (example: law, PHD)",Married,Yes,Yes,2
-56,2,410,294,315,420,Yes,Yes,Anonymous,Anonymous,55-64,Male,Candidate of Architecture,Married,Yes,Yes,1
-57,2,536,316,586,338,No,,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-58,1,422,303,398,230,No,Yes,Anonymous,Anonymous,35-44,Female,"Advanced professional degree (example: law, PHD)",Married,Yes,Yes,3
-59,2,562,299,665,310,No,No,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-60,5,408,318,429,339,Yes,Yes,Anonymous,Anonymous,25-34,Female,Associate Degree,,No,Yes,1
-61,1,421,323,413,352,Yes,Yes,Anonymous,Anonymous,35-44,Male,"Advanced professional degree (example: law, PHD)",Living with partner,No,Yes,2
-62,10,319,379,416,304,No,No,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,NA
-63,10,417,306,423,336,Yes,Yes,Anonymous,Anonymous,35-44,Male,"Advanced professional degree (example: law, PHD)",Living with partner,No,Yes,1
-64,8,NA,NA,482,432,No,Yes,Anonymous,Anonymous,18-24,Male,"Advanced professional degree (example: law, PHD)",Living with partner,No,Yes,1
-65,7,208,256,319,279,No,No,Anonymous,Anonymous,18-24,Male,Masters degree,Single,No,Yes,3
-66,8,429,485,424,366,No,Yes,Anonymous,Anonymous,35-44,Male,"Advanced professional degree (example: law, PHD)",Living with partner,No,Yes,1
-67,8,448,338,438,331,Yes,No,Anonymous,Anonymous,25-34,Female,Associate Degree,Divorced,Yes,Yes,1
-68,4,439,347,332,437,No,No,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,1
-69,7,417,374,426,350,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Divorced,No,Yes,1
-70,7,401,404,409,293,No,Yes,Anonymous,Anonymous,25-34,Male,Bachelors degree,Married,No,Yes,1
-71,7,NA,NA,NA,NA,No,Yes,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-72,6,418,299,383,100,Yes,Yes,Anonymous,Anonymous,55-64,Male,Associate Degree,Married,Yes,Yes,3
-73,4,425,322,451,414,Yes,Yes,Anonymous,Anonymous,35-44,Female,Masters degree,Married,Yes,Yes,3
-74,6,408,299,392,335,Yes,No,Anonymous,Anonymous,NA,Male,Masters degree,Married,No,Yes,1
-75,5,413,327,439,389,Yes,Yes,Anonymous,Anonymous,35-44,Female,Masters degree,Married,No,Yes,1
-76,6,388,343,418,295,No,Yes,Anonymous,Anonymous,25-34,Male,"Advanced professional degree (example: law, PHD)",Married,No,Yes,1
-77,1,397,313,NA,NA,Yes,Yes,Anonymous,Anonymous,35-44,Female,Masters degree,Divorced,Yes,Yes,3
-78,3,404,220,435,332,No,Yes,Anonymous,Anonymous,25-34,Male,Masters degree,Single,No,Yes,0
-79,10,419,307,424,305,Yes,Yes,Anonymous,Anonymous,45-54,Male,"Advanced professional degree (example: law, PHD)",Married,Yes,Yes,2
-80,2,NA,NA,416,239,No,No,Anonymous,Anonymous,18-24,Female,High School Diploma,Single,No,Yes,3
-81,6,429,342,424,358,No,Yes,Anonymous,Anonymous,35-44,Male,High School Diploma,Divorced,Yes,Yes,1
-82,9,411,312,419,303,Yes,Yes,Anonymous,Anonymous,25-34,Male,Masters degree,Married,No,Yes,2
-83,3,438,399,543,388,No,No,Anonymous,Anonymous,35-44,Female,"Advanced professional degree (example: law, PHD)",Single,No,Yes,0
-84,7,416,447,393,280,No,Yes,Anonymous,Anonymous,25-34,Female,"Advanced professional degree (example: law, PHD)",Married,No,Yes,1
-85,5,369,303,478,380,No,Yes,Anonymous,Anonymous,25-34,Male,"Advanced professional degree (example: law, PHD)",Living with partner,No,Yes,3
-86,8,332,394,148,393,No,No,Anonymous,Anonymous,25-34,Male,High School Diploma,Living with partner,No,Yes,1
-87,5,414,320,419,298,No,Yes,Anonymous,Anonymous,35-44,Male,Associate Degree,Divorced,No,Yes,0
-88,6,364,498,418,298,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,0
-89,6,462,391,432,335,No,No,Anonymous,Anonymous,35-44,Female,Associate Degree,Single,No,Yes,0
-90,5,443,284,173,322,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Living with partner,No,Yes,2
-91,7,426,314,570,472,No,Yes,Anonymous,Anonymous,35-44,Male,Masters degree,Married,Yes,Yes,2
-92,3,389,283,214,320,Yes,Yes,Anonymous,Anonymous,25-34,Male,"Advanced professional degree (example: law, PHD)",Married,No,Yes,2
-93,10,NA,NA,466,452,No,Yes,Anonymous,Anonymous,25-34,Female,Masters degree,Single,No,Yes,3
-94,10,416,336,194,323,No,Yes,Anonymous,Anonymous,18-24,Female,Masters degree,Married,No,Yes,1
-95,1,404,344,415,269,No,Yes,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-96,9,422,312,413,369,Yes,No,Bohdan,Protsiuk,35-44,Male,Masters degree,Divorced,Yes,Yes,1
-97,9,418,310,419,369,Yes,No,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-98,10,364,370,682,430,No,Yes,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
-99,6,NA,NA,676,423,No,Yes,Anonymous,Anonymous,NA,Female,Masters degree,Married,Yes,Yes,2
-100,9,241,119,141,272,Yes,Yes,Anonymous,Anonymous,NA,NA,NA,NA,NA,NA,NA
+,duration,most_time_x,most_time_y,second_time_x,second_time_y,live,work,first_name,last_name,age,gender
+1,7,472,372,416,329,No,No,Anonymous,Anonymous,35-44,NA
+2,2,565,338,451,352,No,Yes,Anonymous,Anonymous,18-24,Female
+3,2,448,413,417,315,No,No,Anonymous,Anonymous,18-24,Male
+4,2,536,370,422,323,No,Yes,Anonymous,Anonymous,25-34,Female
+5,2,536,354,422,398,No,No,Anonymous,Anonymous,18-24,Male
+6,7,303,357,402,370,No,No,Anonymous,Anonymous,NA,NA
+7,3,412,330,406,310,No,No,Anonymous,Anonymous,25-34,Male
+8,9,209,317,391,368,No,No,Anonymous,Anonymous,25-34,Male
+9,3,421,298,428,345,No,Yes,Anonymous,Anonymous,25-34,Male
+10,8,426,292,428,342,Yes,No,Anonymous,Anonymous,25-34,Male
+11,5,425,360,719,508,No,Yes,Anonymous,Anonymous,25-34,Male
+12,10,433,353,412,340,No,No,Anonymous,Anonymous,55-64,Male
+13,5,436,343,410,330,Yes,Yes,Anonymous,Anonymous,35-44,Female
+14,7,416,298,413,335,Yes,Yes,Anonymous,Anonymous,25-34,Female
+16,5,410,309,435,366,Yes,No,Anonymous,Anonymous,35-44,Male
+17,10,429,324,401,245,Yes,Yes,Anonymous,Anonymous,45-54,Female
+18,1,542,358,417,338,No,No,Anonymous,Anonymous,35-44,Female
+19,10,408,375,414,304,Yes,No,Anonymous,Anonymous,25-34,Female
+20,1,413,413,411,315,No,Yes,Anonymous,Anonymous,25-34,Male
+21,7,427,377,471,485,No,Yes,Anonymous,Anonymous,25-34,Male
+22,4,NA,NA,NA,NA,No,No,Anonymous,Anonymous,18-24,Male
+23,5,419,343,427,387,Yes,Yes,Anonymous,Anonymous,35-44,Female
+24,6,155,114,377,310,No,Yes,Anonymous,Anonymous,35-44,Female
+25,7,423,308,555,461,No,Yes,Anonymous,Anonymous,25-34,Male
+26,1,436,336,401,229,Yes,Yes,Anonymous,Anonymous,18-24,Female
+27,3,413,299,408,372,Yes,Yes,Anonymous,Anonymous,25-34,Female
+28,7,424,359,441,357,No,,Anonymous,Anonymous,25-34,Male
+29,3,403,283,412,252,No,Yes,Anonymous,Anonymous,25-34,Male
+30,1,333,362,478,372,No,No,Anonymous,Anonymous,18-24,Female
+31,8,401,300,418,338,Yes,No,Anonymous,Anonymous,25-34,Male
+32,4,422,313,369,507,Yes,Yes,Anonymous,Anonymous,25-34,Female
+33,6,368,294,555,393,No,Yes,Anonymous,Anonymous,18-24,Female
+34,10,377,334,465,417,No,Yes,Anonymous,Anonymous,25-34,Female
+35,3,394,291,392,206,No,Yes,Anonymous,Anonymous,35-44,Male
+36,5,410,215,435,347,No,No,Anonymous,Anonymous,18-24,Female
+37,1,384,332,670,732,No,No,Anonymous,Anonymous,25-34,Male
+38,1,382,294,312,255,No,Yes,Anonymous,Anonymous,25-34,Female
+39,7,416,332,353,491,No,No,Anonymous,Anonymous,18-24,Male
+40,5,444,349,411,233,No,Yes,Anonymous,Anonymous,25-34,Female
+41,8,299,71,292,68,Yes,Yes,Anonymous,Anonymous,25-34,Male
+42,2,416,312,357,324,No,No,Anonymous,Anonymous,25-34,Female
+43,5,444,353,706,435,No,Yes,Anonymous,Anonymous,18-24,Female
+44,4,451,380,601,269,No,Yes,Anonymous,Anonymous,18-24,Female
+45,3,374,511,NA,NA,No,No,Anonymous,Anonymous,NA,NA
+46,3,158,440,413,305,No,Yes,Anonymous,Anonymous,18-24,Female
+47,3,290,432,403,306,No,No,Anonymous,Anonymous,18-24,Female
+48,9,407,301,329,404,Yes,No,Anonymous,Anonymous,18-24,Female
+49,3,406,294,358,320,No,Yes,Anonymous,Anonymous,18-24,Female
+50,10,395,205,350,325,No,No,Anonymous,Anonymous,25-34,Female
+51,3,374,321,307,310,Yes,Yes,Anonymous,Anonymous,18-24,Female
+52,9,438,288,414,300,Yes,Yes,Anonymous,Anonymous,25-34,Female
+53,4,418,237,377,456,No,No,Anonymous,Anonymous,NA,NA
+54,1,379,330,422,304,No,No,Anonymous,Anonymous,18-24,Male
+55,1,338,497,423,408,No,Yes,Anonymous,Anonymous,25-34,Male
+56,2,410,294,315,420,Yes,Yes,Anonymous,Anonymous,55-64,Male
+57,2,536,316,586,338,No,,Anonymous,Anonymous,NA,NA
+58,1,422,303,398,230,No,Yes,Anonymous,Anonymous,35-44,Female
+59,2,562,299,665,310,No,No,Anonymous,Anonymous,NA,NA
+60,5,408,318,429,339,Yes,Yes,Anonymous,Anonymous,25-34,Female
+61,1,421,323,413,352,Yes,Yes,Anonymous,Anonymous,35-44,Male
+62,10,319,379,416,304,No,No,Anonymous,Anonymous,25-34,Female
+63,10,417,306,423,336,Yes,Yes,Anonymous,Anonymous,35-44,Male
+64,8,NA,NA,482,432,No,Yes,Anonymous,Anonymous,18-24,Male
+65,7,208,256,319,279,No,No,Anonymous,Anonymous,18-24,Male
+66,8,429,485,424,366,No,Yes,Anonymous,Anonymous,35-44,Male
+67,8,448,338,438,331,Yes,No,Anonymous,Anonymous,25-34,Female
+68,4,439,347,332,437,No,No,Anonymous,Anonymous,25-34,Female
+69,7,417,374,426,350,No,Yes,Anonymous,Anonymous,25-34,Female
+70,7,401,404,409,293,No,Yes,Anonymous,Anonymous,25-34,Male
+71,7,NA,NA,NA,NA,No,Yes,Anonymous,Anonymous,NA,NA
+72,6,418,299,383,100,Yes,Yes,Anonymous,Anonymous,55-64,Male
+73,4,425,322,451,414,Yes,Yes,Anonymous,Anonymous,35-44,Female
+74,6,408,299,392,335,Yes,No,Anonymous,Anonymous,NA,Male
+75,5,413,327,439,389,Yes,Yes,Anonymous,Anonymous,35-44,Female
+76,6,388,343,418,295,No,Yes,Anonymous,Anonymous,25-34,Male
+77,1,397,313,NA,NA,Yes,Yes,Anonymous,Anonymous,35-44,Female
+78,3,404,220,435,332,No,Yes,Anonymous,Anonymous,25-34,Male
+79,10,419,307,424,305,Yes,Yes,Anonymous,Anonymous,45-54,Male
+80,2,NA,NA,416,239,No,No,Anonymous,Anonymous,18-24,Female
+81,6,429,342,424,358,No,Yes,Anonymous,Anonymous,35-44,Male
+82,9,411,312,419,303,Yes,Yes,Anonymous,Anonymous,25-34,Male
+83,3,438,399,543,388,No,No,Anonymous,Anonymous,35-44,Female
+84,7,416,447,393,280,No,Yes,Anonymous,Anonymous,25-34,Female
+85,5,369,303,478,380,No,Yes,Anonymous,Anonymous,25-34,Male
+86,8,332,394,148,393,No,No,Anonymous,Anonymous,25-34,Male
+87,5,414,320,419,298,No,Yes,Anonymous,Anonymous,35-44,Male
+88,6,364,498,418,298,No,Yes,Anonymous,Anonymous,25-34,Female
+89,6,462,391,432,335,No,No,Anonymous,Anonymous,35-44,Female
+90,5,443,284,173,322,No,Yes,Anonymous,Anonymous,25-34,Female
+91,7,426,314,570,472,No,Yes,Anonymous,Anonymous,35-44,Male
+92,3,389,283,214,320,Yes,Yes,Anonymous,Anonymous,25-34,Male
+93,10,NA,NA,466,452,No,Yes,Anonymous,Anonymous,25-34,Female
+94,10,416,336,194,323,No,Yes,Anonymous,Anonymous,18-24,Female
+95,1,404,344,415,269,No,Yes,Anonymous,Anonymous,NA,NA
+96,9,422,312,413,369,Yes,No,Anonymous,Anonymous,35-44,Male
+97,9,418,310,419,369,Yes,No,Anonymous,Anonymous,NA,NA
+98,10,364,370,682,430,No,Yes,Anonymous,Anonymous,NA,NA
+99,6,NA,NA,676,423,No,Yes,Anonymous,Anonymous,NA,Female
+100,9,241,119,141,272,Yes,Yes,Anonymous,Anonymous,NA,NA
