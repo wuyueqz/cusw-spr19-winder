@@ -13,6 +13,8 @@ int messageBoxResult = -1;
 String messageBoxString = "";
 int value = 0;
 
+ArrayList<Bubble> bubbleList;
+
 //This is the variables for different locations
 float l = 5;
 float w = 5;
@@ -29,6 +31,7 @@ String say[] = {};
 boolean isOpen;
 
 void setup() {
+  bubbleList = new ArrayList<Bubble>();
   size(1920,1080);
   background = loadImage("Data/Kyiv_masterplan.jpg");
   background.resize(width, height);
@@ -102,11 +105,16 @@ void draw() {
   //  b.rollover(mouseX, mouseY);
   //}
  
-  float x = b.x(b.getPosition());
-  x += ((isOpen==true ? 0:-300) - x) * 0.2;;
-  float y = b.y(b.getPosition());
+  //float x = b.x(b.getPosition());
+  //x += ((isOpen==true ? 0:-300) - x) * 0.2;;
+  //float y = b.y(b.getPosition());
   
-  b.setPosition(x,y);
+  //b.setPosition(x,y);
+  
+  for(int i = 0; i<bubbleList.size(); i++){
+    bubbleList.get(i).display();
+  }
+  //DRAW BUBBLES HERE :D 
   
   //if(messageBox.isVisible()) {
   //  background(128);
@@ -117,26 +125,26 @@ void draw() {
   //}
   
   int i = 0; //<>//
-  while(i < lon.length){
+  //while(i < lon.length){
     
-    fill(live[i]*25.5,work[i]*25.5,play[i]*25.5,127);
-    //fill(255,255,255,200);
-    //stroke(255,255,255,200);
-    ellipse(lon[i], lat[i], d, d);
-    //fill(255, 255, 255);
-    println("name variable: " + name);
-    text(name, lon[i]+15, lat[i]-15);
-    lon[i] = lon[i] + random(-1, 1);
-    lat[i] = lat[i] + random(-1, 1);
+  //  fill(live[i]*25.5,work[i]*25.5,play[i]*25.5,127);
+  //  //fill(255,255,255,200);
+  //  //stroke(255,255,255,200);
+  //  ellipse(lon[i], lat[i], d, d);
+  //  //fill(255, 255, 255);
+  //  println("name variable: " + name);
+  //  text(name, lon[i]+15, lat[i]-15);
+  //  lon[i] = lon[i] + random(-1, 1);
+  //  lat[i] = lat[i] + random(-1, 1);
     
-    live[i] = l;
-    work[i] = w;
-    play[i] = p;
-    say[i] = name;
+  //  live[i] = l;
+  //  work[i] = w;
+  //  play[i] = p;
+  //  say[i] = name;
     
-    i = i + 1;
+  //  i = i + 1;
 
-  }
+  //}
   
   rect(1620,0,300,height);
   fill(l*25.5,w*25.5,p*25.5,100);
@@ -146,12 +154,18 @@ void draw() {
 
 void mouseClicked(){
   if (mouseX < 1600){
-  lon = append(lon, mouseX);
-  lat = append(lat, mouseY);
-  live = append(live, l);
-  work = append(work, w);
-  play = append(play, p);
-  say = append(say, name);
+  //lon = append(lon, mouseX);
+  //lat = append(lat, mouseY);
+  //live = append(live, l);
+  //work = append(work, w);
+  //play = append(play, p);
+  //say = append(say, name);
+  //CREATE NEW BUBBLE -- such that 
+//float lon_, float lat_, float l_, float w_, float p_, float diameter_, String s_
+  Bubble b = new Bubble(mouseX, mouseY, l, w, p, 20, name);
+  bubbleList.add(b);
+  //Each bubble is assigned the variables above
+  
   //if (value == 0) {
   //  value = 255;
   //} else {

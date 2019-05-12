@@ -16,6 +16,7 @@ class Bubble {
     name = s_;
   }
   
+  
   // CHecking if mouse is over the Bubble
   void rollover(float plon, float plat) {
     float d = dist(plon,plat,lon,lat);
@@ -30,7 +31,7 @@ class Bubble {
   void display() {
     stroke(255);
     strokeWeight(2);
-    fill(l,w,p,255);
+    fill(l*20,w*20,p*20,255);
     ellipse(lon,lat,diameter,diameter);
     if (over) {
       fill(0);
