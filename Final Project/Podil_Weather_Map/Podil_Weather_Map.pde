@@ -35,7 +35,7 @@ void setup() {
   //createMessageBox();
   smooth();
   
-  loadData();
+  //loadData();
   
   cp5 = new ControlP5(this);
   
@@ -124,6 +124,7 @@ void draw() {
     //stroke(255,255,255,200);
     ellipse(lon[i], lat[i], d, d);
     //fill(255, 255, 255);
+    println("name variable: " + name);
     text(name, lon[i]+15, lat[i]-15);
     lon[i] = lon[i] + random(-1, 1);
     lat[i] = lat[i] + random(-1, 1);
@@ -162,14 +163,14 @@ void mouseClicked(){
 }
 
 void mousePressed() {
-  TableRow row = table.addRow();
-  row.setFloat("lon", mouseX);
-  row.setFloat("lat", mouseY);
-  row.setFloat("diameter", l+w+p);
-  row.setString("name", "Blah");
+  //TableRow row = table.addRow();
+  //row.setFloat("lon", mouseX);
+  //row.setFloat("lat", mouseY);
+  //row.setFloat("diameter", l+w+p);
+  //row.setString("name", "Blah");
 
-  saveTable(table, "data/data.csv");
-  loadData();
+  //saveTable(table, "data/data.csv");
+  //loadData();
 }
 
 public void controlEvent(ControlEvent theEvent) {

@@ -1,4 +1,4 @@
-String name;
+String name = "";
 
 void Submit() {
   print("the following text was submitted :");
